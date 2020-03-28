@@ -1,0 +1,24 @@
+h1{font-size: 40px;
+background-color: greenyellow;
+text-align: center;}
+
+h3{font-family: serif; background-color: greenyellow; font-size: 30px}
+
+img{width: 600px; height: 320px;}
+
+.texto{
+width: 100%}
+
+.texto{width: 900px;
+margin: auto;
+float: center;
+font-family: "Arial";
+font-size: 30px;
+text-align: left}
+
+textarea {width: 600pt; height: 100pt; font-family: 'Arial'; }
+
+body {background-color: dodgerblue; 
+margin: 0px;
+padding: 0px;
+}
